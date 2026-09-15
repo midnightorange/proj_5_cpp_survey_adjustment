@@ -1,0 +1,10 @@
+# 构建目录（CMake 产物，体积大不入库）
+build_gui/
+build/
+cmake-build-*/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
